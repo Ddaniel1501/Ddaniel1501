@@ -9,6 +9,9 @@ Me interesan las finanzas, el deporte, la ciencia y un poco de politica
 - ⚡ Dato curioso: Soy muy abierto, me gusta aprender cosas nuevas
 - 
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
+
 
 
 # <summary>☎️ contact me</summary>
