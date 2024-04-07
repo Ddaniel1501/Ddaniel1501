@@ -1,4 +1,15 @@
 ## ¡👋!Hola! Soy @Ddaniel1501
+
+<img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
+
+[![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+Ahmad!;I'm+a+Flutter+Developer...;I'm+also+Machine+Learning+Engineer;And+I'm+a+proud+Pakistani+🇵🇰)](https://git.io/typing-svg)
+
+<img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
+
+<h3> Here's some fun facts about me: </h3>
+
 ![Captura de pantalla 2024-04-07 092445](https://github.com/Ddaniel1501/Ddaniel1501/assets/166311959/cb557a8f-732c-42c6-ac7f-1db5e769ad83)
 
 Me interesan las finanzas, el deporte, la ciencia y un poco de politica
