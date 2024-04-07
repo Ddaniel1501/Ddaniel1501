@@ -10,6 +10,7 @@
 <img src="https://komarev.com/ghpvc/?username=Ahmad-shaikh575&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
 
 <h3> Here's some fun facts about me: </h3>
+
 Me interesan las finanzas, el deporte, la ciencia y un poco de politica
 - 🌱 Actualmente estoy aprendiendo todo referente a sistemas, estoy estudiando la ingenieria en sistemas, ademas de la licenciatura en admon de empresas.
 - 💞️ Estoy buscando colaborar en...
