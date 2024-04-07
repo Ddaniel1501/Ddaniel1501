@@ -1,5 +1,8 @@
 ## ¡👋!Hola! Soy @Ddaniel1501
-![Captura de pantalla 2024-04-07 092445](https://github.com/Ddaniel1501/Ddaniel1501/assets/166311959/cb557a8f-732c-42c6-ac7f-1db5e769ad83)
+
+
+
+(https://github.com/Ddaniel1501/Ddaniel1501/assets/166311959/cb557a8f-732c-42c6-ac7f-1db5e769ad83)
 
 <img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
 
