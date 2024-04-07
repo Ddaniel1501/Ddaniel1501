@@ -1,5 +1,6 @@
-[mmm](https://github.com/Ddaniel1501/Ddaniel1501/assets/166311959/401057c9-f8a6-4b12-abd6-a2d67a9df582)
 ## 👋!Hola! Soy @Ddaniel1501
+![imagen](https://github.com/Ddaniel1501/Ddaniel1501/assets/166311959/56940a7e-bb2a-4049-91e5-c3323cc3ae83)
+
 Me interesan las finanzas, el deporte, la ciencia y un poco de politica
 - 🌱 Actualmente estoy aprendiendo todo referente a sistemas, estoy estudiando la ingenieria en sistemas, ademas de la licenciatura en admon de empresas.
 - 💞️ Estoy buscando colaborar en...
