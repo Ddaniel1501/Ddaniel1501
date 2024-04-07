@@ -17,4 +17,11 @@ Me interesan las finanzas, el deporte, la ciencia y un poco de politica
 
 
 
+<li>
+<a href="mailto:0xabdulkhalid@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/gmail:  0xabdulkhalid-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
+</a>
+
+
+
 <!--- Ddaniel1501/Ddaniel1501 es un ✨ repositorio especial ✨ porque su 'README.md' (este archivo) aparece en tu perfil de GitHub. Puede hacer clic en el enlace Vista previa para echar un vistazo a los cambios. --->
