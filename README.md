@@ -18,6 +18,13 @@ Me interesan las finanzas, el deporte, la ciencia y un poco de politica
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer">
 
+
+### 🧰 &nbsp;Version Controll & Tools
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)&nbsp;
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
+
+
+
 ### 🐍 &nbsp;That's How Commits move ...
 
 <div align="center">
