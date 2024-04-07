@@ -11,6 +11,6 @@ Me interesan las finanzas, el deporte, la ciencia y un poco de politica
 -![Gmail]( https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 
-![[WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)(6674212284)]
+![[WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white6674212284)]
 
 <!--- Ddaniel1501/Ddaniel1501 es un ✨ repositorio especial ✨ porque su 'README.md' (este archivo) aparece en tu perfil de GitHub. Puede hacer clic en el enlace Vista previa para echar un vistazo a los cambios. --->
