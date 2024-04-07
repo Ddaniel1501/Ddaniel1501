@@ -24,7 +24,7 @@ Me interesan las finanzas, el deporte, la ciencia y un poco de politica
 
 
 
- <summary>☎️ contact me</summary>
+# <summary>☎️ contact me</summary>
 <div>
   <samp>
     <h2 align="center">you can reach me by:</h2>
