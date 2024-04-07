@@ -2,9 +2,6 @@
 
 ![vbvcbbb](https://github.com/Ddaniel1501/Ddaniel1501/assets/166311959/07f59dac-6eb3-4f1e-a3a2-310e8f235a10)
 
-
-
-
 <img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
 
 [![GitHub followers](https://img.shields.io/github/followers/Ahmad-shaikh575.svg?style=social&label=Followers)](https://github.com/Ahmad-shaikh575?tab=followers)
