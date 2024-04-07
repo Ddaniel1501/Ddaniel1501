@@ -18,6 +18,13 @@ Me interesan las finanzas, el deporte, la ciencia y un poco de politica
       alt="cplusplus" width="40" height="40" /> </a> <a href="https://www.w3schools.com/css/" target="_blank"
     rel="noreferrer">
 
+### 🐍 &nbsp;That's How Commits move ...
+
+<div align="center">
+  <a href="https://github.com/Adityakanoi2001/">
+  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+
 
 # <summary>☎️ contact me</summary>
 <div>
@@ -54,12 +61,7 @@ Me interesan las finanzas, el deporte, la ciencia y un poco de politica
 <details>
 
 
-### 🐍 &nbsp;That's How Commits move ...
 
-<div align="center">
-  <a href="https://github.com/Adityakanoi2001/">
-  <img src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
-       alt="snake" /></a>
 
 
 
