@@ -1,8 +1,9 @@
 ## ¡👋!Hola! Soy @Ddaniel1501
 
+![vbvcbbb](https://github.com/Ddaniel1501/Ddaniel1501/assets/166311959/07f59dac-6eb3-4f1e-a3a2-310e8f235a10)
 
 
-(https://github.com/Ddaniel1501/Ddaniel1501/assets/166311959/cb557a8f-732c-42c6-ac7f-1db5e769ad83)
+
 
 <img src="https://profile-counter.glitch.me/Ahmad-shaikh575/count.svg">
 
